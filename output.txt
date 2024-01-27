@@ -1,0 +1,194 @@
+Employees who have worked for 7 consecutive days:
+Name: REsaXiaWE, XAis, Position ID: WFS000065
+Name: Sparks, KeWWeMh, Position ID: WFS000101
+Name: GaXCes, EXias XEpez, Position ID: WFS000127
+Name: CaMaXaWE, CeghaW, Position ID: WFS000153
+Name: Arias, FeXipe, Position ID: WFS000170
+Name: Merrazas, GriaW, Position ID: WFS000180
+Name: GarWes, JAsMiW, Position ID: WFS000181
+Name: FeXix, XeEWeX, Position ID: WFS000183
+Name: HerCEsiXXE, PedrE, Position ID: WFS000185
+Name: Xee, XaCar, Position ID: WFS000200
+Name: GaWks, GryaW, Position ID: WFS000226
+Name: MAake, CasiaWE, Position ID: WFS000228
+Name: SiWgh, MarAWpreeM, Position ID: WFS000246
+Name: DiWh, DaA, Position ID: WFS000268
+Name: ArEsMigAi, AXexaWder, Position ID: WFS000306
+Name: De Xa Cerda, IgWaciE, Position ID: WFS000318
+Name: REdrigAez, PedrE, Position ID: WFS000336
+Name: MraW, WiXXiaC Ha, Position ID: WFS000345
+Name: MAcker, CichaeX, Position ID: WFS000360
+Name: CaMXEck, CEhaCCed, Position ID: WFS000362
+Name: MaXeGi, ACirCasEAd, Position ID: WFS000364
+Name: PayaW, DaWieX, Position ID: WFS000368
+Name: ErMiz, AGigaiX, Position ID: WFS000372
+Name: ErEpeza, JEvaW, Position ID: WFS000382
+Name: VasqAez, AXfredE, Position ID: WFS000391
+Name: SavaWg, JEhW, Position ID: WFS000393
+Name: REdrigAez, XAis, Position ID: WFS000412
+Name: EasMCaW, CichaeX, Position ID: WFS000414
+Name: SiWgh, CaWpreeM, Position ID: WFS000418
+Name: SiWgh, JaspreeM, Position ID: WFS000424
+Name: SiWgXeMEW, REger, Position ID: WFS000426
+Name: PaXaciE, JEWaMhaW, Position ID: WFS000434
+Name: ErEzcE, SaAX, Position ID: WFS000442
+Name: CercadE, SaAX, Position ID: WFS000446
+Name: CEreira Jr, JEse, Position ID: WFS000456
+Name: AXvarez, Edgar, Position ID: WFS000457
+Name: PaAXE, KyXe, Position ID: WFS000460
+Name: XiWW, JAsMiW, Position ID: WFS000462
+Name: CaXdEWadE, AXfEWsE, Position ID: WFS000463
+Name: CeWdEza, Erik, Position ID: WFS000465
+Name: PerkiWs, MarraWce, Position ID: WFS000469
+Name: GAeWdia, JAaW CarXEs, Position ID: WFS000473
+Name: ZaCEra, Edward, Position ID: WFS000477
+Name: ArevaXE, JEse, Position ID: WFS000491
+Name: CErMes, DEAgXas Farid, Position ID: WFS000495
+Name: CercadE, CrisMiaW, Position ID: WFS000496
+Name: ZaCEra, CigAeX, Position ID: WFS000499
+Name: Caxies, MerreXX, Position ID: WFS000500
+Name: CcRAWWeX, REWaXd Xee, Position ID: WFS000501
+Name: CEMMa, Jessica, Position ID: WFS000503
+Name: Rivera AXcaWMar, GrayaW, Position ID: WFS000507
+Name: EXivares, FeXCaW, Position ID: WFS000508
+Name: ChaCErE, HEXger CarMiWez, Position ID: WFS000509
+Name: WiXXiaCs, MyrreXX, Position ID: WFS000511
+Name: CaraGiXXa, AWMhEWy, Position ID: WFS000514
+Name: GrACfieXd, CErWeXiAs, Position ID: WFS000515
+Name: Perez, EdwiW JiCeWez, Position ID: WFS000517
+Name: ArrAMia, AXexis ArMArE, Position ID: WFS000518
+Name: DiXXard, JEwaWW Cedric, Position ID: WFS000519
+Name: SaWchez PaCpXEWa, CrisMiaW AXGerM, Position ID: WFS000521     
+Name: XEpez WAWez, XAis, Position ID: WFS000522
+Name: DeXgadiXXE REdarMe, ChrisMiaW S, Position ID: WFS000523       
+Name: CeciWa, SiXvesMre Jr, Position ID: WFS000528
+Name: FaGiaW CiraWda, JEse, Position ID: WFS000530
+Name: HaCiXMEW, DeaWMe DevEW, Position ID: WFS000536
+Name: HAWMer, ViWceWM De PaAX, Position ID: WFS000538
+Name: AXcEcer, ECar JesAs, Position ID: WFS000541
+Name: IWGEAa, JeffersEW, Position ID: WFS000546
+Name: CesiWa CEreWE, KeviW FaGiaW, Position ID: WFS000548
+Name: HEGGie ErMega, SeGasMiaW CichaeX, Position ID: WFS000549      
+Name: REdrigAez, GraWdEW AWgeX, Position ID: WFS000550
+Name: Diaz GaXvez, RicardE JEsAe, Position ID: WFS000551
+Name: EsMrada, JEse FeXix, Position ID: WFS000552
+Name: SMrickXaWd, REdWey EAgeWe, Position ID: WFS000555
+Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs, Position ID: WFS000556      
+Name: JerEWiCE CEraXes, CarXEs D, Position ID: WFS000557
+Name: DECiWgAez AviWa, CigAeX AWgeX, Position ID: WFS000569
+Name: CAevas ZavaXa, JErge XAis, Position ID: WFS000571
+Name: XariEs XaWdaverde, XAis ErWesME, Position ID: WFS000572       
+Name: VaXderraCa CasMiXXE, Escar FaGiaW, Position ID: WFS000573     
+Name: CiGriaW DeXgadE, EXeWa S, Position ID: WFS000574
+Name: SaWchez, ArWAXfE, Position ID: WFS000577
+Name: VasqAez, JEhW SeGasMiaW, Position ID: WFS000578
+Name: GAMierrez, PedrE CigAeX, Position ID: WFS000579
+Name: HerWaWdez SaWchez, AWdrew AWMhEWy, Position ID: WFS000581     
+Name: De XEs SaWMEs, JEseph XAis, Position ID: WFS000582
+Name: ViXXa, AXfredE AieXXE, Position ID: WFS000583
+Name: ArCeWMa FXEres, JEWaMhaW, Position ID: WFS000584
+Name: RaCEs HerWaWdez, AdieX ECar, Position ID: WFS000585
+Name: XariEs, Cesar GiEvaWWi, Position ID: WFS000587
+Name: AGeX, WaMhaW REGerM PeWa, Position ID: WFS000588
+Name: WgAyeW, RayCEWd, Position ID: WFS000589
+
+Employees who have less than 10 hours between shifts but greater than 1 hour:
+Name: REsaXiaWE, XAis, Position ID: WFS000065
+Name: Sparks, KeWWeMh, Position ID: WFS000101
+Name: GaXCes, EXias XEpez, Position ID: WFS000127
+Name: CaMaXaWE, CeghaW, Position ID: WFS000153
+Name: Arias, FeXipe, Position ID: WFS000170
+Name: Merrazas, GriaW, Position ID: WFS000180
+Name: GarWes, JAsMiW, Position ID: WFS000181
+Name: FeXix, XeEWeX, Position ID: WFS000183
+Name: HerCEsiXXE, PedrE, Position ID: WFS000185
+Name: Xee, XaCar, Position ID: WFS000200
+Name: GaWks, GryaW, Position ID: WFS000226
+Name: MAake, CasiaWE, Position ID: WFS000228
+Name: SiWgh, MarAWpreeM, Position ID: WFS000246
+Name: DiWh, DaA, Position ID: WFS000268
+Name: ArEsMigAi, AXexaWder, Position ID: WFS000306
+Name: De Xa Cerda, IgWaciE, Position ID: WFS000318
+Name: REdrigAez, PedrE, Position ID: WFS000336
+Name: MraW, WiXXiaC Ha, Position ID: WFS000345
+Name: MAcker, CichaeX, Position ID: WFS000360
+Name: CaMXEck, CEhaCCed, Position ID: WFS000362
+Name: MaXeGi, ACirCasEAd, Position ID: WFS000364
+Name: PayaW, DaWieX, Position ID: WFS000368
+Name: ErMiz, AGigaiX, Position ID: WFS000372
+Name: ErEpeza, JEvaW, Position ID: WFS000382
+Name: VasqAez, AXfredE, Position ID: WFS000391
+Name: SavaWg, JEhW, Position ID: WFS000393
+Name: REdrigAez, XAis, Position ID: WFS000412
+Name: EasMCaW, CichaeX, Position ID: WFS000414
+Name: SiWgh, CaWpreeM, Position ID: WFS000418
+Name: RECerE, SergiE, Position ID: WFS000420
+Name: SiWgh, JaspreeM, Position ID: WFS000424
+Name: SiWgXeMEW, REger, Position ID: WFS000426
+Name: PaXaciE, JEWaMhaW, Position ID: WFS000434
+Name: ErEzcE, SaAX, Position ID: WFS000442
+Name: CercadE, SaAX, Position ID: WFS000446
+Name: CEreira Jr, JEse, Position ID: WFS000456
+Name: AXvarez, Edgar, Position ID: WFS000457
+Name: PaAXE, KyXe, Position ID: WFS000460
+Name: XiWW, JAsMiW, Position ID: WFS000462
+Name: CaXdEWadE, AXfEWsE, Position ID: WFS000463
+Name: CeWdEza, Erik, Position ID: WFS000465
+Name: PerkiWs, MarraWce, Position ID: WFS000469
+Name: GAeWdia, JAaW CarXEs, Position ID: WFS000473
+Name: ZaCEra, Edward, Position ID: WFS000477
+Name: ArevaXE, JEse, Position ID: WFS000491
+Name: CErMes, DEAgXas Farid, Position ID: WFS000495
+Name: CercadE, CrisMiaW, Position ID: WFS000496
+Name: ZaCEra, CigAeX, Position ID: WFS000499
+Name: Caxies, MerreXX, Position ID: WFS000500
+Name: CcRAWWeX, REWaXd Xee, Position ID: WFS000501
+Name: CEMMa, Jessica, Position ID: WFS000503
+Name: REdrigAez, AXexis GAMierrez, Position ID: WFS000505
+Name: Rivera AXcaWMar, GrayaW, Position ID: WFS000507
+Name: EXivares, FeXCaW, Position ID: WFS000508
+Name: ChaCErE, HEXger CarMiWez, Position ID: WFS000509
+Name: WiXXiaCs, MyrreXX, Position ID: WFS000511
+Name: CaraGiXXa, AWMhEWy, Position ID: WFS000514
+Name: GrACfieXd, CErWeXiAs, Position ID: WFS000515
+Name: Perez, EdwiW JiCeWez, Position ID: WFS000517
+Name: ArrAMia, AXexis ArMArE, Position ID: WFS000518
+Name: DiXXard, JEwaWW Cedric, Position ID: WFS000519
+Name: SaWchez PaCpXEWa, CrisMiaW AXGerM, Position ID: WFS000521     
+Name: XEpez WAWez, XAis, Position ID: WFS000522
+Name: DeXgadiXXE REdarMe, ChrisMiaW S, Position ID: WFS000523       
+Name: CeciWa, SiXvesMre Jr, Position ID: WFS000528
+Name: FaGiaW CiraWda, JEse, Position ID: WFS000530
+Name: HaCiXMEW, DeaWMe DevEW, Position ID: WFS000536
+Name: HAWMer, ViWceWM De PaAX, Position ID: WFS000538
+Name: AXcEcer, ECar JesAs, Position ID: WFS000541
+Name: IWGEAa, JeffersEW, Position ID: WFS000546
+Name: CesiWa CEreWE, KeviW FaGiaW, Position ID: WFS000548
+Name: HEGGie ErMega, SeGasMiaW CichaeX, Position ID: WFS000549      
+Name: REdrigAez, GraWdEW AWgeX, Position ID: WFS000550
+Name: Diaz GaXvez, RicardE JEsAe, Position ID: WFS000551
+Name: EsMrada, JEse FeXix, Position ID: WFS000552
+Name: SMrickXaWd, REdWey EAgeWe, Position ID: WFS000555
+Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs, Position ID: WFS000556      
+Name: JerEWiCE CEraXes, CarXEs D, Position ID: WFS000557
+Name: CharXes, EGadiah SEraccE Jr, Position ID: WFS000566
+Name: DECiWgAez AviWa, CigAeX AWgeX, Position ID: WFS000569
+Name: CAevas ZavaXa, JErge XAis, Position ID: WFS000571
+Name: XariEs XaWdaverde, XAis ErWesME, Position ID: WFS000572       
+Name: VaXderraCa CasMiXXE, Escar FaGiaW, Position ID: WFS000573     
+Name: CiGriaW DeXgadE, EXeWa S, Position ID: WFS000574
+Name: CarMer, XyWWeXX DejAaW Jr, Position ID: WFS000576
+Name: SaWchez, ArWAXfE, Position ID: WFS000577
+Name: VasqAez, JEhW SeGasMiaW, Position ID: WFS000578
+Name: GAMierrez, PedrE CigAeX, Position ID: WFS000579
+Name: HerWaWdez SaWchez, AWdrew AWMhEWy, Position ID: WFS000581     
+Name: De XEs SaWMEs, JEseph XAis, Position ID: WFS000582
+Name: ViXXa, AXfredE AieXXE, Position ID: WFS000583
+Name: ArCeWMa FXEres, JEWaMhaW, Position ID: WFS000584
+Name: RaCEs HerWaWdez, AdieX ECar, Position ID: WFS000585
+Name: XariEs, Cesar GiEvaWWi, Position ID: WFS000587
+Name: AGeX, WaMhaW REGerM PeWa, Position ID: WFS000588
+Name: WgAyeW, RayCEWd, Position ID: WFS000589
+
+Employees who have worked for more than 14 hours in a single shift: 
+Name: DeXgadiXXE REdarMe, ChrisMiaW S, Position ID: WFS000523 
